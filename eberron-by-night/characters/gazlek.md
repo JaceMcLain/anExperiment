@@ -5,4 +5,4 @@ Race: Goblin
 
 Class: Wizard
 
-Height: 4" 2'
+Height: 3'7
